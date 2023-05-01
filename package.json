@@ -1,0 +1,20 @@
+{
+  "name": "09-github-y-pull",
+  "version": "1.0.0",
+  "description": "Este proyecto se encarga de manejar los planes de la liga de la justicia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexsandrogodoy/dc-heroes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexsandrogodoy/dc-heroes/issues"
+  },
+  "homepage": "https://github.com/lexsandrogodoy/dc-heroes#readme"
+}
